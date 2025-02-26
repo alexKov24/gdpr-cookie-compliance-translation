@@ -1,6 +1,8 @@
 # How to use it?
 
-note that to see the translation run in the plugin popup, its input must be empty!
+note that to see the translation run in the *plugin popup*, its input must be empty!
+go to the plugin settings page, clear the inputs for the names and text and hit save.
+this will still show the english test like nothing happened, but the translation will be triggered.
 
 ## wpml
 if you already have wmpl installed on your site simply go to *string translation* section of the plugin there you will find import/export section. Simply selecte the po file upload it WITH the translations and thats it!
